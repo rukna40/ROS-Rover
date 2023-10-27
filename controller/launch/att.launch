@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="controller" type="att" name="att" output="screen"></node>
+</launch>

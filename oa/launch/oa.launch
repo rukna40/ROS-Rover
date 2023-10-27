@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="oa" type="oa2" name="oa2" output="screen"></node>
+</launch>
